@@ -1,5 +1,9 @@
 # Android-ChatApp
 This is an Android Chat application named DevChat made in JAVA using Firebase.
+## UI: 
+ - SignUp/Login Page.
+ - Contains 3 Tabs in Welcome Page- Chats, Contacts, Requests.
+ - Contains Find Friends, Settings and Logout options in Menu.
 ## Features: 
  - Personal Chats with your Contacts (with simple text messages).
  - Send and Accept Chat Requests of Users.

@@ -1,0 +1,2 @@
+rootProject.name='DevChat'
+include ':app'

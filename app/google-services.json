@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "849760110617",
+    "firebase_url": "https://devchat-e5a95.firebaseio.com",
+    "project_id": "devchat-e5a95",
+    "storage_bucket": "devchat-e5a95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849760110617:android:48b0dfa2fe2dce36b14288",
+        "android_client_info": {
+          "package_name": "com.example.devchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849760110617-atsirup6tm91a97adcgla19kne221pa3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb3E6rYcigdNIDQ1BzHG7hlPlAwLrUObA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849760110617-atsirup6tm91a97adcgla19kne221pa3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
